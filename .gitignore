@@ -1,5 +1,3 @@
 # List of untracked files to ignore
-/resources
-*.prj
 .DS_Store
 /untracked_ecg_qrs_detector

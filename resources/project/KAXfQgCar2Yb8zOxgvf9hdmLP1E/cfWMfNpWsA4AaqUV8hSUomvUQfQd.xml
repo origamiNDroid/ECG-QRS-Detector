@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="simulink_project_scripts/simCache_and_codeGen_startup.m" Name="simCache_and_codeGen_startup">
+    <Extension Value="HEAD" Name="StartUpPrev" />
+</Info>

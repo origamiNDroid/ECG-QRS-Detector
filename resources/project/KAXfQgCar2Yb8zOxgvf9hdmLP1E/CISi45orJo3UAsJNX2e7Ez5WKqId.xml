@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Model/ecg_qrs_detector.slx" Name="ecg_qrs_detector">
+    <Extension Value="21a3dd32-881a-459e-9246-a54302ebc73c" Name="StartUpPrev" />
+</Info>

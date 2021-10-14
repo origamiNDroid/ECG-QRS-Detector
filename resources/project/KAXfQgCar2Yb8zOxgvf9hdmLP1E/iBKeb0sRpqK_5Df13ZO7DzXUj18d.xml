@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Model/setupQRSdetector/ecg_signals_timeseries.mat" Name="ecg_signals_timeseries">
+    <Extension Value="f873c2f1-6352-4e0f-a9ab-eeeca7af3e9b" Name="StartUpPrev" />
+</Info>
